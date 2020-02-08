@@ -41,4 +41,10 @@ A repository to store the code that I made while learning about matplotlib.
 
 ![Screenshot from 2020-02-09 00-00-32](https://user-images.githubusercontent.com/41234408/74090258-35d41a80-4acf-11ea-819e-a8f415062447.png)
 
-11. 
+11. [squares.py](https://github.com/yashk2000/istogramma/blob/master/squares.py)
+
+![Screenshot from 2020-02-09 00-01-31](https://user-images.githubusercontent.com/41234408/74090271-59976080-4acf-11ea-874f-19b058733d9f.png)
+
+12. [text.py](https://github.com/yashk2000/istogramma/blob/master/text.py)
+
+![Screenshot from 2020-02-09 00-02-20](https://user-images.githubusercontent.com/41234408/74090288-7764c580-4acf-11ea-8ab1-c94a5dcf3195.png)
