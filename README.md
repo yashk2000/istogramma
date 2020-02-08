@@ -17,4 +17,10 @@ A repository to store the code that I made while learning about matplotlib.
 
 ![Screenshot from 2020-02-08 23-53-41](https://user-images.githubusercontent.com/41234408/74090147-4041e480-4ace-11ea-9a7f-c2ce56d4951a.png)
 
-5. 
+5. [equation.py](https://github.com/yashk2000/istogramma/blob/master/equation.py)
+
+![Screenshot from 2020-02-08 23-54-55](https://user-images.githubusercontent.com/41234408/74090185-94e55f80-4ace-11ea-8eb4-11badc53a200.png)
+
+6. [makePlotDoEverything.py](https://github.com/yashk2000/istogramma/blob/master/makePlotDoEverything.py)
+
+![Screenshot from 2020-02-08 23-56-56](https://user-images.githubusercontent.com/41234408/74090201-b3e3f180-4ace-11ea-9c9d-e0c8574a6869.png)
