@@ -24,3 +24,13 @@ A repository to store the code that I made while learning about matplotlib.
 6. [makePlotDoEverything.py](https://github.com/yashk2000/istogramma/blob/master/makePlotDoEverything.py)
 
 ![Screenshot from 2020-02-08 23-56-56](https://user-images.githubusercontent.com/41234408/74090201-b3e3f180-4ace-11ea-9c9d-e0c8574a6869.png)
+
+7. [keywordStrings.py](https://github.com/yashk2000/istogramma/blob/master/keywordStrings.py)
+
+![Screenshot from 2020-02-08 23-57-59](https://user-images.githubusercontent.com/41234408/74090218-dfff7280-4ace-11ea-9459-00e46c4899b2.png)
+
+8. [keywordStrings2.py](https://github.com/yashk2000/istogramma/blob/master/keywordStrings2.py)
+
+![Screenshot from 2020-02-08 23-58-08](https://user-images.githubusercontent.com/41234408/74090225-f1487f00-4ace-11ea-9f36-728ef713378f.png)
+
+9. 
