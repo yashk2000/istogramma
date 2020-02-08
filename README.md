@@ -33,4 +33,12 @@ A repository to store the code that I made while learning about matplotlib.
 
 ![Screenshot from 2020-02-08 23-58-08](https://user-images.githubusercontent.com/41234408/74090225-f1487f00-4ace-11ea-9f36-728ef713378f.png)
 
-9. 
+9. [multipleFigures.py](https://github.com/yashk2000/istogramma/blob/master/multipleFigures.py)
+
+![Screenshot from 2020-02-08 23-59-32](https://user-images.githubusercontent.com/41234408/74090243-1ccb6980-4acf-11ea-85b7-634911cffdf5.png)
+
+10. [multipleGraphs.py](https://github.com/yashk2000/istogramma/blob/master/multipleGraphs.py)
+
+![Screenshot from 2020-02-09 00-00-32](https://user-images.githubusercontent.com/41234408/74090258-35d41a80-4acf-11ea-819e-a8f415062447.png)
+
+11. 
