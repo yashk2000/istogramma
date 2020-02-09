@@ -48,3 +48,11 @@ A repository to store the code that I made while learning about matplotlib.
 12. [text.py](https://github.com/yashk2000/istogramma/blob/master/text.py)
 
 ![Screenshot from 2020-02-09 00-02-20](https://user-images.githubusercontent.com/41234408/74090288-7764c580-4acf-11ea-8ab1-c94a5dcf3195.png)
+
+13. [boost.py](https://github.com/yashk2000/istogramma/blob/master/boost.py)
+
+![Screenshot from 2020-02-09 15-03-53](https://user-images.githubusercontent.com/41234408/74099867-18926100-4b4e-11ea-8750-75c8ed2c8e4b.png)
+
+14. [boost2.py](https://github.com/yashk2000/istogramma/blob/master/boost2.py)
+
+![Screenshot from 2020-02-09 15-04-01](https://user-images.githubusercontent.com/41234408/74099875-36f85c80-4b4e-11ea-8ff5-6a3b292f9974.png)
